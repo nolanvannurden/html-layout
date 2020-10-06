@@ -1,0 +1,57 @@
+.top {
+	width: 100%;
+	border: 3px solid black;
+	padding: 10px;
+	box-sizing: border-box;
+	}
+.purplebox {
+	background-color: purple;
+	width: 3vh;
+	height: 10vh;
+	display: inline-block;
+}
+.greenbox {
+	background-color: green;
+	height: 15vh;
+	width: 25vh;
+	margin-left: 40px;
+	display: inline-block
+	
+}
+.bluecircle {
+	background: lightblue;
+	height: 12vh;
+	width: 12vh;
+	margin-left: 20px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.middle {
+	margin-top: 20px;
+	height: 130px;
+	width: 100%;
+	border: black dotted 5px;
+	box-sizing: border-box;
+	text-align: center;
+}
+.secondbox {
+	background-color: black;
+	height: 45%;
+	width: 50%;
+	margin: auto;
+	margin-top: 35px;
+}
+.bottom {
+	background-color: blanchedalmond;
+	margin-top: 20px;
+	height: 45%;
+	width: 100%;
+	text-align: center;
+}
+h1 {
+	display: inline-block;
+	padding: 33px;
+	margin: auto;
+	padding: auto;
+	text-align: center;
+}
