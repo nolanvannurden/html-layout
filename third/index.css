@@ -1,0 +1,47 @@
+.box1 {
+	background-color: grey;
+	height: 14.28vh;
+	width: 100%;
+	padding-top: 16px;
+	box-sizing: border-box;
+}
+.internalbox {
+	background-color: blue;
+	height: 10vh;
+	width: 10vh;
+	margin-left: 2vh;
+}
+.box2 {
+	height: 28.56vh;
+	width: 100%;
+	text-align: center;
+}
+.h1 {
+	text-overflow: inherit;
+	text-align: center;
+	font-size: 50px;
+}
+.box3 {
+	background-color: blue;
+	height: 14.28vh;
+	width: 100%;
+	box-sizing: border-box;
+}
+.box4 {
+	background-color:teal;
+	height: 14.28vh;
+	width: 100%;
+	box-sizing: border-box;
+}
+.box5 {
+	background-color:greenyellow;
+	height: 14.28vh;
+	width: 100%;
+	box-sizing: border-box;
+}
+.box6 {
+	background-color:yellow;
+	height: 14.28vh;
+	width: 100%;
+	box-sizing: border-box;
+}
