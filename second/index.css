@@ -38,7 +38,7 @@
 	background-color: black;
 	height: 45%;
 	width: 50%;
-	margin: auto;
+	margin: 2px auto;
 	margin-top: 35px;
 }
 .bottom {
@@ -50,8 +50,10 @@
 }
 h1 {
 	display: inline-block;
+	height: 45%;
+	width: 100%;
 	padding: 33px;
-	margin: auto;
-	padding: auto;
+	margin: 2px auto;
+	
 	text-align: center;
 }
